@@ -1,0 +1,36 @@
+div {
+    visibility: hidden;
+    font-size: 0%;
+    color: rgb(241, 210, 108);
+}
+button{
+    margin: 10px;
+    font-style: italic;
+    font-size: 125%;
+}
+h2 {
+    color:crimson;
+}
+img {
+    width: 150px;
+    /*float: right;*/
+    align-items: right;
+    display: flex;
+
+}
+html{
+   background-image: url(photo_2025-11-14_13-53-46.jpg);
+   background-attachment: fixed;
+}
+#text4 img{
+     float: right;
+}
+h3{
+    font-size: 350%;
+    color: crimson;
+}
+a {
+    font-size: 200%;
+    color: rgb(212, 130, 130);
+    margin-bottom: 100px;
+}
